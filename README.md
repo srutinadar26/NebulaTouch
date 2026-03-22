@@ -49,6 +49,11 @@ This value controls:
 Particles dynamically reposition themselves when switching between templates, creating smooth morphing transitions between shapes.
 
 ---
+## 🌐 Live Demo
+
+https://nebula-touch.vercel.app/
+
+---
 
 ## 🤖 AI-Assisted Development
 
